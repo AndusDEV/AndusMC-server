@@ -1,7 +1,7 @@
 AndusMC-server
 ==
 
-A fork of Tuinity, for a better server performance.
+A fork of [Tuinity](https://github.com/Spottedleaf/Tuinity), for a better server performance.
 
 Tuinity
 ==

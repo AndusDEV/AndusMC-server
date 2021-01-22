@@ -14,22 +14,27 @@ index 6c6ae6b48094c86c74cd4e9f4214056f63e6ac68..c441d455e2273b63d2cec136872a5025
      <parent>
 -        <groupId>com.destroystokyo.paper</groupId>
 -        <artifactId>paper-parent</artifactId>
-+        <groupId>com.tuinity</groupId>
-+        <artifactId>tuinity-parent</artifactId>
+-        <groupId>com.tuinity</groupId>
+-        <artifactId>tuinity-parent</artifactId>
++        <groupId>com.andus.andusapi</groupId>
++        <artifactId>andus-parent</artifactId>
          <version>dev-SNAPSHOT</version>
 +        <relativePath>../pom.xml</relativePath>
      </parent>
  
 -    <groupId>com.destroystokyo.paper</groupId>
 -    <artifactId>paper-api</artifactId>
-+    <artifactId>tuinity-api</artifactId>
+-    <artifactId>tuinity-api</artifactId>
++    <artifactId>andus-api</artifactId>
      <version>1.16.5-R0.1-SNAPSHOT</version>
      <packaging>jar</packaging>
  
 -    <name>Paper-API</name>
 -    <url>https://github.com/PaperMC/Paper</url>
-+    <name>Tuinity-API</name>
-+    <url>https://github.com/Spottedleaf/Tuinity</url>
+-    <name>Tuinity-API</name>
+-    <url>https://github.com/Spottedleaf/Tuinity</url>
++    <name>AndusMC-API</name>
++    <url>https://github.com/AndusDEV/AndusMC-server</url>
      <description>An enhanced plugin API for Minecraft servers.</description>
  
      <properties>
